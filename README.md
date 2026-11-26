@@ -19,7 +19,7 @@ Her sayı bir çubuktur. Algoritma çalışırken karşılaştırılan çubuklar
 Python 3 ve Pygame gerekir.
 
 ```
-git clone https://github.com/KULLANICI_ADIN/SortVision.git
+git clone https://github.com/pinarcapkin/SortVision.git
 cd SortVision
 python3 -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
